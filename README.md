@@ -29,12 +29,6 @@ Implemented and compared 4 different algorithms:
 3. **Gradient Boosting Classifier**
 4. **Support Vector Machine (SVM)**
 
-### Best Model Performance
-- **Algorithm**: [Your best model name]
-- **Accuracy**: [Your accuracy score]%
-- **AUC Score**: [Your AUC score]
-- **Cross-validation Score**: [Your CV score]
-
 ## Technologies Used
 - **Python 3.x**
 - **Libraries**: 
